@@ -1,0 +1,152 @@
+html {
+    width: 100%;
+    height: 100%;
+    font-family: 'Seymour One', sans-serif;
+    background-color: #001aff1a;
+}
+
+body {
+    margin: 5px;
+    width: 800px;
+    min-height: 1px;
+    margin: 50px auto;
+    padding: 0 20px 20px 20px;
+    display: block;
+    font-family: 'Seymour One', sans-serif;
+    background-color: rgba(152, 197, 248, 0.199);
+    border: 5px solid #6200ff27;
+    border-radius: 25px;
+}
+
+h1 {
+    display: block;
+    position: absolute;
+    width: 9rem;
+    height: 2.5rem;
+    left: 0;
+    right: 0;
+    margin: 0.9em auto;
+    margin-left: auto;
+    margin-right: auto;
+
+    border: 3px solid #6200ff42;
+    background-color: #6200ff13;
+    border-radius: 14px;
+
+    text-align: center;
+    line-height: 1.35;
+    font-family: 'Seymour One', sans-serif;
+    font-size: 29px;
+    color: #2c0072c9;
+
+    transition: 0.3s;
+}
+
+div {
+    width: 40rem;
+    height: 155px;
+    margin: 10em auto 60px auto;
+    border: solid #2c0072;
+    border-radius: 15px;
+}
+
+label,
+p {
+    display: block;
+    position: relative;
+    margin: 0.9em;
+    left: 5%;
+}
+
+label {
+    font-size: 18px;
+}
+
+p {
+    font-size: 18px;
+}
+
+input {
+    position: relative;
+    width: 240px;
+    top: -24%;
+    left: 50%;
+
+    background-color: #b080ff21;
+    border-radius: 10px;
+    border: solid #2c0072;
+}
+
+.btn1 {
+    display: block;
+    margin-right: 2em;
+    position: relative;
+    background-color: #8d8d8d15;
+    border-radius: 15px;
+    border: 2px solid #2c0072;
+    padding: 0.5%;
+    width: 250px;
+    left: 10%;
+    top: -15%;
+    font-size: 15px;
+    font-family: 'Seymour One', sans-serif;
+}
+
+.btn2 {
+    display: block;
+    margin-right: 2em;
+    position: relative;
+    background-color: #8d8d8d15;
+    border-radius: 15px;
+    border: 2px solid #2c0072;
+    padding: 0.5%;
+    width: 250px;
+    left: 50%;
+    top: -34.5%;
+    font-size: 15px;
+    font-family: 'Seymour One', sans-serif;
+}
+
+.div-show {
+    display: block;
+    position: absolute;
+    width: 10.9rem;
+    height: 1.4rem;
+    padding: 7px;
+    border: 1px solid #ff0000;
+    border-radius: 10px;
+    color: #830404;
+    background-color: #d861616b;
+    transition: 0.3s;
+
+    margin-left: 27%;
+    margin-right: 0;
+    top: 15%;
+    left: 0;
+    right: 0;
+    margin: 0.9em auto;
+}
+
+.div-hide {
+    display: none;
+}
+
+p {
+    top: -25%;
+}
+
+li {
+    padding: 0.5%;
+}
+
+.btn3 {
+    position: relative;
+    margin-left: 1em;
+    padding: 0.3%;
+    width: 120px;
+    background-color: #8d8d8d15;
+    border-radius: 15px;
+    border: 2px solid #2c0072;
+    font-size: 15px;
+    font-family: 'Seymour One', sans-serif;
+}
