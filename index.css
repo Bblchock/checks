@@ -42,7 +42,7 @@ h1 {
     transition: 0.3s;
 }
 
-div {
+.form {
     width: 40rem;
     height: 155px;
     margin: 10em auto 60px auto;
